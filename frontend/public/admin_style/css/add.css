@@ -1,0 +1,178 @@
+    .main-sidebar-body .nav-item.active .nav-link {
+        color: #FED300;
+    }
+
+    .side-menu .nav-link:hover {
+        color: #8c770c;
+    }
+    .side-menu .nav-link.activeRouter {
+        color: #FED300;
+    }
+
+    .badge-primary {
+        background-color: #057aff;
+    }
+
+    .badge-secondary {
+        background-color: #ff4174;
+    }
+
+    .badge-info {
+        background-color: #ffd300;
+    }
+
+    .btn-secondary {
+        background: linear-gradient( 318deg, #ffc107, #ffc107);
+    }
+
+    .btn-outline-primary {
+        color: #FED300 !important;
+        border-color: #FED300;
+    }
+
+    .main-content-title {
+        color: #004782;
+    }
+
+    .page-header .breadcrumb-item a {
+        color: #004782;
+    }
+
+    a:not([href]):not([tabindex]) {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .ripple {
+        position: relative;
+        overflow: hidden;
+        transform: translate3d(0, 0, 0);
+        cursor: pointer;
+    }
+
+    .btn,
+    .sp-container button {
+        line-height: 1.538;
+        padding: 9px 20px;
+        border-radius: 0;
+        transition: none;
+        min-height: 38px;
+    }
+
+    .text-white {
+        color: #fff !important;
+    }
+
+    .badge-success {
+        color: #fff;
+        background-color: #004782;
+    }
+
+    .btn-success {
+        color: #fff;
+        background-color: #004782;
+        border-color: #004782;
+    }
+
+    .btn-outline-primary {
+        color: #FED300 !important;
+        border-color: #FED300;
+    }
+
+    .btn-outline-primary:hover {
+        background-color: #2161db;
+        border-color: #FED300;
+    }
+
+    .page-header .breadcrumb-item.active {
+        color: #FED300;
+    }
+
+    body {
+        background: rgb(0 71 130 / 5%);
+    }
+
+    .progress-bar {
+        background-color: #2874df;
+    }
+
+    .text-primary {
+        color: #2874df !important;
+    }
+
+    .bg-secondary {
+        background-color: #ffc107!important;
+    }
+
+    .bg-success {
+        background-color: #004782 !important;
+    }
+
+    .btn-success {
+        background-color: #2874df;
+    }
+
+    .btn-success:hover {
+        color: #fff;
+        background-color: #004782;
+        border-color: #004782;
+    }
+
+    .text-success {
+        color: #004782 !important;
+    }
+
+    .text-secondary {
+        color: #ffc107 !important;
+    }
+
+    .bg-primary {
+        background-color: #ffc107 !important;
+    }
+
+    #back-to-top {
+        background: #ffc107;
+    }
+
+    #back-to-top:hover {
+        color: #ffc107 !important;
+        border: 2px solid #ffc107;
+    }
+
+    .main-header-menu-icon span::before,
+    .main-header-menu-icon span::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        width: 20 px;
+        height: 2 px;
+        background-color: #004782;
+        border-radius: 3 px;
+        transition: all 0.2s ease-in-out;
+    }
+
+    .main-header-menu-icon span {
+        background-color: #004782;
+    }
+
+    .main-header-right .nav-link.icon {
+        font-size: 20px;
+        color: #004782;
+    }
+
+    .ckbox span:after {
+        background-color: #ffd300;
+    }
+
+    .main-profile-menu .dropdown-item:hover,
+    .main-profile-menu .dropdown-item:focus {
+        color: #004782;
+    }
+
+    a {
+        color: #2874df;
+    }
+
+    a:hover {
+        color: #ffc107;
+    }
