@@ -1,0 +1,12 @@
+.gift_image {
+    height: 85px;
+    width: 270px !important;
+    object-fit: cover;
+}
+
+.gift_title {
+    font-size: 14px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
